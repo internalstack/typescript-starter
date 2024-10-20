@@ -2,6 +2,8 @@
 
 This repository provides a minimal setup for running a server using TypeScript, making it simple to kickstart your development process.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zqBwCD?referralCode=K_LR7W)
+
 ## Getting Started
 
 ### Setup
