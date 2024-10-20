@@ -1,8 +1,10 @@
-# TypeScript Starter
+# TypeScript App Starter
 
-This repository provides a minimal setup for running a server using TypeScript, making it simple to kickstart your development process.
+This repository provides a minimal setup for running an InternalStack app server using TypeScript, making it simple to kickstart your development process.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zqBwCD?referralCode=K_LR7W)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/internalstack/typescript-starter)
 
 ## Getting Started
 
