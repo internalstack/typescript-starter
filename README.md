@@ -1,4 +1,4 @@
-# TypeScript Boilerplate
+# TypeScript Starter
 
 This repository provides a minimal setup for running a server using TypeScript, making it simple to kickstart your development process.
 
