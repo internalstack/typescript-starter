@@ -19,7 +19,7 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "@internalstack/server": "1.0.8",
+    "@internalstack/server": "1.0.10",
     "consola": "3.2.3",
     "destr": "2.0.3",
     "nanoid": "5.0.7",

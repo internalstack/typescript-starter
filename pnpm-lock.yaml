@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@internalstack/server':
-    specifier: 1.0.8
-    version: 1.0.8
+    specifier: 1.0.10
+    version: 1.0.10
   consola:
     specifier: 3.2.3
     version: 3.2.3
@@ -256,8 +256,8 @@ packages:
     dev: true
     optional: true
 
-  /@internalstack/server@1.0.8:
-    resolution: {integrity: sha512-ms3EVd2yBp7VMHK+a9ldibbnvs/wQBptIKGlPB0jduwfF/Jedj+XMdncMZlEcsRVZYVzU0TuRaZJ9qy25DAMtw==}
+  /@internalstack/server@1.0.10:
+    resolution: {integrity: sha512-UILIOvN3aE1R5RLMlfxOXWywOj5hSbz22U5DJYmk2eNapKUM7VrLmXvU6KgHqBAO7F/kc/r+kD7eoiajoQAeLg==}
     engines: {node: '>=22.0.0'}
     dependencies:
       consola: 3.2.3
