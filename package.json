@@ -19,12 +19,6 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "@internalstack/server": "1.0.10",
-    "consola": "3.2.3",
-    "destr": "2.0.3",
-    "nanoid": "5.0.7",
-    "ofetch": "1.4.1",
-    "websocket-ts": "2.1.5",
-    "zod": "3.23.8"
+    "@internalstack/server": "1.0.10"
   }
 }
